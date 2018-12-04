@@ -3,7 +3,7 @@
 <br>
 <h2>My Apps</h2>
 <h3>Routines</h3>
-<p>	<a href="https://itunes.apple.com/us/app/routines-daily-task-manager/id1440566972?mt=8" target="_blank">iOS App Store Link</a></p>
+<p>	<a href="https://itunes.apple.com/us/app/routines-daily-task-manager/id1440566972?mt=8">iOS App Store Link</a></p>
 <br>
 <h2>Where to find me</h2>
-<p>	<a rel="me" href="https://mastodon.technology/@donavon" target="_blank">Mastodon</a></p>
+<p>	<a rel="me" href="https://mastodon.technology/@donavon">Mastodon</a></p>
